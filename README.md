@@ -64,4 +64,3 @@ Built with [Rich](https://github.com/Textualize/rich)
 
 - The Python library for rich text and beautiful formatting in the terminal.
 
-TODO:
